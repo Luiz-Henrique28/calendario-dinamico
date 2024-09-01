@@ -1,0 +1,12 @@
+.largura-maxima {
+    max-width: 200px;
+    min-width: 100px;
+}
+
+html{
+    height: 100vh;
+}
+
+table {
+    opacity: 0.75;
+}
